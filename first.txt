@@ -3,7 +3,6 @@ Mont is August
 Year is 2022
 raining heavy
 we are learning git
-HEAD
 tomorrow is wed
 we have communication skill on wednesday
-bir1
+An Apple a day keeps doctor away
